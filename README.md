@@ -47,6 +47,7 @@ The calculator should also display the nominal accumulated value, total contribu
 #### hackathon01_01
 
 Screenshotted because too lazy to export the table.
+
 ![Output 1](output-1.png)
 
 #### hackathon01_02
@@ -88,7 +89,7 @@ Months required for target probabilities:
   P(reach) >= 0.90  ->   216.0 months  (18.00 years)
   P(reach) >= 0.95  ->   228.0 months  (19.00 years)
 
-![montecarlo output](montecarlo-output.png)
+![montecarlo output](montecarlo-output4.png)
 
 #### hackathon01_05
 
