@@ -20,16 +20,20 @@ Repo for dumping crap for UTM Hackathon MATLAB for degree newbies.
 Compute the smallest integer number of months $n$, and the corresponding time $T=n/12$ years, such that the inflation-adjusted real value of the investment is at least $Y$.
 
 Use:
+
 $$
 r_{\text{real}}=\frac{1+r}{1+q}-1,\qquad
 i=(1+r_{\text{real}})^{1/12}-1
 $$
 
 If $i\ne 0$, the real value after $n$ months is:
+
 $$
 FV(n)=K\frac{(1+i)^n-1}{i}
 $$
+
 If $i=0$, use:
+
 $$
 FV(n)=Kn
 $$
