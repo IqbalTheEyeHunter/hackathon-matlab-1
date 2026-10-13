@@ -19,5 +19,5 @@ Decide whether $K$ is **real** or **nominal**. For a hackathon, defining $K$ as 
 - Solve $FV_{\text{real}}(n)\ge Y$ for the smallest integer $n$.
 - Nominal future value: $FV_{\text{nominal}}(n)=FV_{\text{real}}(n)(1+q)^{n/12}$.
 - Total nominal contributions: as above.
-- Nominal gain: \(FV_{\text{nominal}}(n)-C_{\text{nominal}}(n)\).
+- Nominal gain: $FV_{\text{nominal}}(n)-C_{\text{nominal}}(n)$.
 
