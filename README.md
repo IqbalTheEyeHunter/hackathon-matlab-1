@@ -52,6 +52,7 @@ Screenshotted because too lazy to export the table.
 
 #### hackathon01_02
 
+```
 Target reached in 164 months (13.67 years).
 Real future value:        RM 100294.92
 Nominal future value:     RM 150217.67
@@ -59,18 +60,22 @@ Total nominal contributions: RM 101162.30
 Nominal gain:             RM 49055.36
 Real monthly rate:        0.239537%
 Real annual return:       2.9126%
+```
 
 #### hackathon01_03
 
+```
 Target reached in 164 months (13.67 years).
 Binary search iterations:    7
 Real future value:           RM 100294.92
 Nominal future value:        RM 150217.67
 Total nominal contributions: RM 101162.30
 Nominal gain:                RM 49055.36
+```
 
 #### hackathon01_04
 
+```
 Expected real annual return: 2.9126%
 Annual volatility:           10.00%
 P(reach target):             1.0000
@@ -88,6 +93,7 @@ Months required for target probabilities:
   P(reach) >= 0.75  ->   192.0 months  (16.00 years)
   P(reach) >= 0.90  ->   216.0 months  (18.00 years)
   P(reach) >= 0.95  ->   228.0 months  (19.00 years)
+```
 
 ![montecarlo output](montecarlo-output4.png)
 
